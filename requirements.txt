@@ -1,0 +1,10 @@
+scikit-learn>=1.3
+numpy
+pandas
+joblib
+openai-whisper
+sounddevice
+pyttsx3
+indic-transliteration
+flask
+scipy

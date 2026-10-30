@@ -1,0 +1,54 @@
+utterance,intent
+Could you switch the air conditioner on,AC_ON
+AC ko chalu kijiye,AC_ON
+I want the AC running,AC_ON
+ac on,AC_ON
+AC shuru karo,AC_ON
+please shut the AC,AC_OFF
+AC ko band kijiye,AC_OFF
+AC off,AC_OFF
+I do not need the air conditioner anymore turn it off,AC_OFF
+Temperature 22 kar do,SET_TEMPERATURE
+set AC to twenty two degrees,SET_TEMPERATURE
+temperature bees degree rakho,SET_TEMPERATURE
+keep it at 24,SET_TEMPERATURE
+temp 19 krdo,SET_TEMPERATURE
+make the cabin a bit warmer,INCREASE_TEMPERATURE
+temperature thoda upar karo,INCREASE_TEMPERATURE
+heat it up a little,INCREASE_TEMPERATURE
+make the cabin cooler,DECREASE_TEMPERATURE
+temperature neeche karo,DECREASE_TEMPERATURE
+bring the temperature down,DECREASE_TEMPERATURE
+Fan speed teen kar do,SET_FAN_SPEED
+fan to level 2,SET_FAN_SPEED
+fan ko paanch pe chalao,SET_FAN_SPEED
+blower speed 4 please,SET_FAN_SPEED
+a bit louder please,INCREASE_VOLUME
+volume zara badhana,INCREASE_VOLUME
+raise the volume to 70,INCREASE_VOLUME
+sound ko thoda tez kijiye,INCREASE_VOLUME
+awaaz thodi kam karna,DECREASE_VOLUME
+lower the sound a little,DECREASE_VOLUME
+bring the volume down to 30,DECREASE_VOLUME
+Volume thoda kam karo,DECREASE_VOLUME
+mute everything,MUTE_AUDIO
+sound off,MUTE_AUDIO
+silence the speakers,MUTE_AUDIO
+awaaz ko mute kar do,MUTE_AUDIO
+Play something nice,PLAY_MEDIA
+start playing songs,PLAY_MEDIA
+kuch gaane suna do,PLAY_MEDIA
+music on kar do,PLAY_MEDIA
+Agla gaana chalao,NEXT_TRACK
+skip to the next song,NEXT_TRACK
+change the song,NEXT_TRACK
+agle gaane pe jao,NEXT_TRACK
+assistant quiet please,STOP_SPEAKING
+bas ab chup,STOP_SPEAKING
+that is enough from you,STOP_SPEAKING
+please be silent,STOP_SPEAKING
+how is the traffic ahead,UNKNOWN_INTENT
+battery kitni bachi hai,UNKNOWN_INTENT
+call my office,UNKNOWN_INTENT
+open the glove box,UNKNOWN_INTENT
+book a table for dinner,UNKNOWN_INTENT

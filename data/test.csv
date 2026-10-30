@@ -1,0 +1,281 @@
+utterance,intent,template_group
+yaar turn on the AC,AC_ON,AC_ON_00
+suno turn on the A C please,AC_ON,AC_ON_00
+please turn on the ac,AC_ON,AC_ON_00
+yaar turn on the aircon yaar,AC_ON,AC_ON_00
+turn on the air conditioner now,AC_ON,AC_ON_00
+turn on the AC,AC_ON,AC_ON_00
+please turn on the ac yaar,AC_ON,AC_ON_00
+zara turn on the AC yaar,AC_ON,AC_ON_00
+please turn on the aircon yaar,AC_ON,AC_ON_00
+hey turn on the ac abhi,AC_ON,AC_ON_00
+zara switch on the A C,AC_ON,AC_ON_01
+ok switch on the ac now,AC_ON,AC_ON_01
+bhai switch on the A C,AC_ON,AC_ON_01
+please switch on the A C,AC_ON,AC_ON_01
+switch on the a.c.,AC_ON,AC_ON_01
+bhai switch on the A C thanks,AC_ON,AC_ON_01
+plz switch on the AC abhi,AC_ON,AC_ON_01
+could you please switch on the AC now,AC_ON,AC_ON_01
+switch on the air conditioner plz,AC_ON,AC_ON_01
+yaar switch on the air conditioner jaldi,AC_ON,AC_ON_01
+can you switch off the A C,AC_OFF,AC_OFF_01
+switch off the a.c. thanks,AC_OFF,AC_OFF_01
+zara switch off the AC,AC_OFF,AC_OFF_01
+could you please switch off the ac yaar,AC_OFF,AC_OFF_01
+plz switch off the ac jaldi,AC_OFF,AC_OFF_01
+switch off the ac jaldi,AC_OFF,AC_OFF_01
+plz switch off the ac abhi,AC_OFF,AC_OFF_01
+could you please switch off the aircon plz,AC_OFF,AC_OFF_01
+zara switch off the aircon yaar,AC_OFF,AC_OFF_01
+switch off the aircon yaar,AC_OFF,AC_OFF_01
+can you turn the a.c. off abhi,AC_OFF,AC_OFF_07
+yaar turn the ac off yaar,AC_OFF,AC_OFF_07
+can you turn the aircon off,AC_OFF,AC_OFF_07
+yaar turn the AC off plz,AC_OFF,AC_OFF_07
+could you please turn the aircon off thanks,AC_OFF,AC_OFF_07
+bhai turn the AC off please,AC_OFF,AC_OFF_07
+yaar turn the A C off please,AC_OFF,AC_OFF_07
+ok turn the ac off,AC_OFF,AC_OFF_07
+turn the AC off please,AC_OFF,AC_OFF_07
+can you turn the air conditioner off,AC_OFF,AC_OFF_07
+could you please set the aircon to 28 degrees please,SET_TEMPERATURE,SET_TEMPERATURE_01
+can you set the ac to 23 degrees jaldi,SET_TEMPERATURE,SET_TEMPERATURE_01
+yaar set the aircon to 27 degrees abhi,SET_TEMPERATURE,SET_TEMPERATURE_01
+set the air conditioner to 30 degrees thanks,SET_TEMPERATURE,SET_TEMPERATURE_01
+yaar set the AC to 22 degrees abhi,SET_TEMPERATURE,SET_TEMPERATURE_01
+set the AC to 21 degrees jaldi,SET_TEMPERATURE,SET_TEMPERATURE_01
+bhai set the a.c. to 29 degrees,SET_TEMPERATURE,SET_TEMPERATURE_01
+can you set the AC to solah degrees jaldi,SET_TEMPERATURE,SET_TEMPERATURE_01
+please set the aircon to 5 degrees,SET_TEMPERATURE,SET_TEMPERATURE_01
+please set the ac to 25 degrees,SET_TEMPERATURE,SET_TEMPERATURE_01
+zara make it 20 degrees,SET_TEMPERATURE,SET_TEMPERATURE_05
+zara make it satrah degrees please,SET_TEMPERATURE,SET_TEMPERATURE_05
+yaar make it 26 degrees please,SET_TEMPERATURE,SET_TEMPERATURE_05
+make it 18 degrees abhi,SET_TEMPERATURE,SET_TEMPERATURE_05
+suno make it 20 degrees plz,SET_TEMPERATURE,SET_TEMPERATURE_05
+suno make it 29 degrees please,SET_TEMPERATURE,SET_TEMPERATURE_05
+plz make it 26 degrees please,SET_TEMPERATURE,SET_TEMPERATURE_05
+hey make it 19 degrees plz,SET_TEMPERATURE,SET_TEMPERATURE_05
+make it 12 degrees plz,SET_TEMPERATURE,SET_TEMPERATURE_05
+zara make it pachis degrees abhi,SET_TEMPERATURE,SET_TEMPERATURE_05
+could you please raise the temperature,INCREASE_TEMPERATURE,INCREASE_TEMPERATURE_01
+can you raise the temperature jaldi,INCREASE_TEMPERATURE,INCREASE_TEMPERATURE_01
+yaar raise the temperature plz,INCREASE_TEMPERATURE,INCREASE_TEMPERATURE_01
+zara raise the temperature now,INCREASE_TEMPERATURE,INCREASE_TEMPERATURE_01
+yaar raise the temperature jaldi,INCREASE_TEMPERATURE,INCREASE_TEMPERATURE_01
+raise the temperature please,INCREASE_TEMPERATURE,INCREASE_TEMPERATURE_01
+can you raise the temperature,INCREASE_TEMPERATURE,INCREASE_TEMPERATURE_01
+zara raise the temperature yaar,INCREASE_TEMPERATURE,INCREASE_TEMPERATURE_01
+bhai raise the temperature thanks,INCREASE_TEMPERATURE,INCREASE_TEMPERATURE_01
+please raise the temperature,INCREASE_TEMPERATURE,INCREASE_TEMPERATURE_01
+plz bahut thand hai jaldi,INCREASE_TEMPERATURE,INCREASE_TEMPERATURE_09
+bahut thand hai thanks,INCREASE_TEMPERATURE,INCREASE_TEMPERATURE_09
+could you please bahut thand hai please,INCREASE_TEMPERATURE,INCREASE_TEMPERATURE_09
+bahut thand hai abhi,INCREASE_TEMPERATURE,INCREASE_TEMPERATURE_09
+please bahut thand hai,INCREASE_TEMPERATURE,INCREASE_TEMPERATURE_09
+bhai bahut thand hai yaar,INCREASE_TEMPERATURE,INCREASE_TEMPERATURE_09
+bhai bahut thand hai,INCREASE_TEMPERATURE,INCREASE_TEMPERATURE_09
+ok bahut thand hai plz,INCREASE_TEMPERATURE,INCREASE_TEMPERATURE_09
+zara bahut thand hai please,INCREASE_TEMPERATURE,INCREASE_TEMPERATURE_09
+ok bahut thand hai now,INCREASE_TEMPERATURE,INCREASE_TEMPERATURE_09
+make it cooler please,DECREASE_TEMPERATURE,DECREASE_TEMPERATURE_02
+hey make it cooler thanks,DECREASE_TEMPERATURE,DECREASE_TEMPERATURE_02
+make it cooler,DECREASE_TEMPERATURE,DECREASE_TEMPERATURE_02
+please make it cooler plz,DECREASE_TEMPERATURE,DECREASE_TEMPERATURE_02
+please make it cooler,DECREASE_TEMPERATURE,DECREASE_TEMPERATURE_02
+ok make it cooler plz,DECREASE_TEMPERATURE,DECREASE_TEMPERATURE_02
+plz make it cooler jaldi,DECREASE_TEMPERATURE,DECREASE_TEMPERATURE_02
+can you make it cooler now,DECREASE_TEMPERATURE,DECREASE_TEMPERATURE_02
+hey make it cooler yaar,DECREASE_TEMPERATURE,DECREASE_TEMPERATURE_02
+suno make it cooler please,DECREASE_TEMPERATURE,DECREASE_TEMPERATURE_02
+garmi lag rahi hai,DECREASE_TEMPERATURE,DECREASE_TEMPERATURE_10
+garmi lag rahi hai plz,DECREASE_TEMPERATURE,DECREASE_TEMPERATURE_10
+ok garmi lag rahi hai,DECREASE_TEMPERATURE,DECREASE_TEMPERATURE_10
+could you please garmi lag rahi hai yaar,DECREASE_TEMPERATURE,DECREASE_TEMPERATURE_10
+suno garmi lag rahi hai yaar,DECREASE_TEMPERATURE,DECREASE_TEMPERATURE_10
+garmi lag rahi hai jaldi,DECREASE_TEMPERATURE,DECREASE_TEMPERATURE_10
+ok garmi lag rahi hai thanks,DECREASE_TEMPERATURE,DECREASE_TEMPERATURE_10
+garmi lag rahi hai thanks,DECREASE_TEMPERATURE,DECREASE_TEMPERATURE_10
+hey garmi lag rahi hai,DECREASE_TEMPERATURE,DECREASE_TEMPERATURE_10
+suno garmi lag rahi hai thanks,DECREASE_TEMPERATURE,DECREASE_TEMPERATURE_10
+could you please fan 5 pe kar de abhi,SET_FAN_SPEED,SET_FAN_SPEED_02
+fan 3 pe kar do jaldi,SET_FAN_SPEED,SET_FAN_SPEED_02
+ok fan 6 pe kr do,SET_FAN_SPEED,SET_FAN_SPEED_02
+ok fan 3 pe krdo yaar,SET_FAN_SPEED,SET_FAN_SPEED_02
+bhai fan do pe kr do abhi,SET_FAN_SPEED,SET_FAN_SPEED_02
+suno fan do pe kar do abhi,SET_FAN_SPEED,SET_FAN_SPEED_02
+fan one pe kar do jaldi,SET_FAN_SPEED,SET_FAN_SPEED_02
+plz fan 5 pe kar do please,SET_FAN_SPEED,SET_FAN_SPEED_02
+plz fan ek pe krdo plz,SET_FAN_SPEED,SET_FAN_SPEED_02
+fan char pe kr do abhi,SET_FAN_SPEED,SET_FAN_SPEED_02
+can you air conditioner fan speed 1 kar de abhi,SET_FAN_SPEED,SET_FAN_SPEED_05
+could you please a.c. fan speed 5 krdo,SET_FAN_SPEED,SET_FAN_SPEED_05
+can you a.c. fan speed 3 kar dijiye yaar,SET_FAN_SPEED,SET_FAN_SPEED_05
+yaar air conditioner fan speed 2 kar dijiye,SET_FAN_SPEED,SET_FAN_SPEED_05
+air conditioner fan speed 2 kr do please,SET_FAN_SPEED,SET_FAN_SPEED_05
+bhai air conditioner fan speed 1 kr do yaar,SET_FAN_SPEED,SET_FAN_SPEED_05
+plz ac fan speed 5 karo,SET_FAN_SPEED,SET_FAN_SPEED_05
+zara air conditioner fan speed five karo jaldi,SET_FAN_SPEED,SET_FAN_SPEED_05
+zara AC fan speed 1 kr do thanks,SET_FAN_SPEED,SET_FAN_SPEED_05
+plz aircon fan speed 5 kr do,SET_FAN_SPEED,SET_FAN_SPEED_05
+can you volume badhaiye yaar,INCREASE_VOLUME,INCREASE_VOLUME_02
+could you please volume badha de,INCREASE_VOLUME,INCREASE_VOLUME_02
+could you please volume badha de plz,INCREASE_VOLUME,INCREASE_VOLUME_02
+please volume badha do jaldi,INCREASE_VOLUME,INCREASE_VOLUME_02
+volume badhaiye abhi,INCREASE_VOLUME,INCREASE_VOLUME_02
+yaar volume badhado,INCREASE_VOLUME,INCREASE_VOLUME_02
+volume badhaiye jaldi,INCREASE_VOLUME,INCREASE_VOLUME_02
+ok volume badhado thanks,INCREASE_VOLUME,INCREASE_VOLUME_02
+yaar volume badhao,INCREASE_VOLUME,INCREASE_VOLUME_02
+zara volume badhaiye now,INCREASE_VOLUME,INCREASE_VOLUME_02
+ok make it louder,INCREASE_VOLUME,INCREASE_VOLUME_05
+could you please make it louder abhi,INCREASE_VOLUME,INCREASE_VOLUME_05
+could you please make it louder jaldi,INCREASE_VOLUME,INCREASE_VOLUME_05
+make it louder thanks,INCREASE_VOLUME,INCREASE_VOLUME_05
+make it louder,INCREASE_VOLUME,INCREASE_VOLUME_05
+could you please make it louder yaar,INCREASE_VOLUME,INCREASE_VOLUME_05
+please make it louder thanks,INCREASE_VOLUME,INCREASE_VOLUME_05
+could you please make it louder,INCREASE_VOLUME,INCREASE_VOLUME_05
+make it louder jaldi,INCREASE_VOLUME,INCREASE_VOLUME_05
+make it louder please,INCREASE_VOLUME,INCREASE_VOLUME_05
+can you volume thoda kam kr do abhi,DECREASE_VOLUME,DECREASE_VOLUME_04
+volume thoda kam kar do yaar,DECREASE_VOLUME,DECREASE_VOLUME_04
+could you please volume thoda kam kar de,DECREASE_VOLUME,DECREASE_VOLUME_04
+volume thoda kam karo plz,DECREASE_VOLUME,DECREASE_VOLUME_04
+could you please volume thoda kam krdo,DECREASE_VOLUME,DECREASE_VOLUME_04
+could you please volume thoda kam kar dijiye now,DECREASE_VOLUME,DECREASE_VOLUME_04
+ok volume thoda kam kardo,DECREASE_VOLUME,DECREASE_VOLUME_04
+volume thoda kam karo,DECREASE_VOLUME,DECREASE_VOLUME_04
+please volume thoda kam kardo thanks,DECREASE_VOLUME,DECREASE_VOLUME_04
+could you please volume thoda kam krdo jaldi,DECREASE_VOLUME,DECREASE_VOLUME_04
+reduce volume to 60 please,DECREASE_VOLUME,DECREASE_VOLUME_07
+zara reduce volume to 30 now,DECREASE_VOLUME,DECREASE_VOLUME_07
+reduce volume to 50 please,DECREASE_VOLUME,DECREASE_VOLUME_07
+zara reduce volume to 70 yaar,DECREASE_VOLUME,DECREASE_VOLUME_07
+bhai reduce volume to 70,DECREASE_VOLUME,DECREASE_VOLUME_07
+ok reduce volume to 20 jaldi,DECREASE_VOLUME,DECREASE_VOLUME_07
+reduce volume to 20,DECREASE_VOLUME,DECREASE_VOLUME_07
+bhai reduce volume to 100 thanks,DECREASE_VOLUME,DECREASE_VOLUME_07
+hey reduce volume to 60 plz,DECREASE_VOLUME,DECREASE_VOLUME_07
+ok reduce volume to 80 jaldi,DECREASE_VOLUME,DECREASE_VOLUME_07
+music mute karo now,MUTE_AUDIO,MUTE_AUDIO_08
+hey music mute kardo abhi,MUTE_AUDIO,MUTE_AUDIO_08
+yaar music mute karo,MUTE_AUDIO,MUTE_AUDIO_08
+could you please music mute kardo abhi,MUTE_AUDIO,MUTE_AUDIO_08
+plz music mute kardo,MUTE_AUDIO,MUTE_AUDIO_08
+bhai music mute kar dijiye abhi,MUTE_AUDIO,MUTE_AUDIO_08
+zara music mute kar do jaldi,MUTE_AUDIO,MUTE_AUDIO_08
+music mute kar de,MUTE_AUDIO,MUTE_AUDIO_08
+please music mute kar dijiye now,MUTE_AUDIO,MUTE_AUDIO_08
+could you please music mute karo abhi,MUTE_AUDIO,MUTE_AUDIO_08
+hey sab kuch mute kr do abhi,MUTE_AUDIO,MUTE_AUDIO_09
+can you sab kuch mute kardo,MUTE_AUDIO,MUTE_AUDIO_09
+zara sab kuch mute kar do please,MUTE_AUDIO,MUTE_AUDIO_09
+plz sab kuch mute kar do plz,MUTE_AUDIO,MUTE_AUDIO_09
+please sab kuch mute karo plz,MUTE_AUDIO,MUTE_AUDIO_09
+sab kuch mute kar dijiye abhi,MUTE_AUDIO,MUTE_AUDIO_09
+zara sab kuch mute kr do abhi,MUTE_AUDIO,MUTE_AUDIO_09
+could you please sab kuch mute karo,MUTE_AUDIO,MUTE_AUDIO_09
+zara sab kuch mute kar do plz,MUTE_AUDIO,MUTE_AUDIO_09
+ok sab kuch mute karo jaldi,MUTE_AUDIO,MUTE_AUDIO_09
+start the music jaldi,PLAY_MEDIA,PLAY_MEDIA_02
+suno start the music plz,PLAY_MEDIA,PLAY_MEDIA_02
+plz start the music thanks,PLAY_MEDIA,PLAY_MEDIA_02
+plz start the music yaar,PLAY_MEDIA,PLAY_MEDIA_02
+yaar start the music,PLAY_MEDIA,PLAY_MEDIA_02
+start the music now,PLAY_MEDIA,PLAY_MEDIA_02
+start the music plz,PLAY_MEDIA,PLAY_MEDIA_02
+suno start the music,PLAY_MEDIA,PLAY_MEDIA_02
+please start the music,PLAY_MEDIA,PLAY_MEDIA_02
+suno start the music jaldi,PLAY_MEDIA,PLAY_MEDIA_02
+music bajao now,PLAY_MEDIA,PLAY_MEDIA_04
+please music laga do please,PLAY_MEDIA,PLAY_MEDIA_04
+can you music chalado jaldi,PLAY_MEDIA,PLAY_MEDIA_04
+plz music chalado yaar,PLAY_MEDIA,PLAY_MEDIA_04
+zara music chala do thanks,PLAY_MEDIA,PLAY_MEDIA_04
+can you music chalado,PLAY_MEDIA,PLAY_MEDIA_04
+music chalao abhi,PLAY_MEDIA,PLAY_MEDIA_04
+music chalao,PLAY_MEDIA,PLAY_MEDIA_04
+can you music laga do,PLAY_MEDIA,PLAY_MEDIA_04
+hey music chala do,PLAY_MEDIA,PLAY_MEDIA_04
+zara skip this song,NEXT_TRACK,NEXT_TRACK_02
+please skip this song yaar,NEXT_TRACK,NEXT_TRACK_02
+skip this song,NEXT_TRACK,NEXT_TRACK_02
+skip this song please,NEXT_TRACK,NEXT_TRACK_02
+skip this song abhi,NEXT_TRACK,NEXT_TRACK_02
+bhai skip this song now,NEXT_TRACK,NEXT_TRACK_02
+skip this song yaar,NEXT_TRACK,NEXT_TRACK_02
+ok skip this song now,NEXT_TRACK,NEXT_TRACK_02
+please skip this song jaldi,NEXT_TRACK,NEXT_TRACK_02
+please skip this song now,NEXT_TRACK,NEXT_TRACK_02
+please ye gaana skip kr do yaar,NEXT_TRACK,NEXT_TRACK_11
+ok ye gaana skip kar do now,NEXT_TRACK,NEXT_TRACK_11
+ok ye gaana skip kr do jaldi,NEXT_TRACK,NEXT_TRACK_11
+can you ye gaana skip karo abhi,NEXT_TRACK,NEXT_TRACK_11
+bhai ye gaana skip karo yaar,NEXT_TRACK,NEXT_TRACK_11
+bhai ye gaana skip kar de plz,NEXT_TRACK,NEXT_TRACK_11
+ye gaana skip kar do jaldi,NEXT_TRACK,NEXT_TRACK_11
+zara ye gaana skip kardo,NEXT_TRACK,NEXT_TRACK_11
+ok ye gaana skip kar dijiye plz,NEXT_TRACK,NEXT_TRACK_11
+ye gaana skip kar dijiye abhi,NEXT_TRACK,NEXT_TRACK_11
+suno chup ho jao,STOP_SPEAKING,STOP_SPEAKING_03
+ok chup ho jao,STOP_SPEAKING,STOP_SPEAKING_03
+could you please chup ho jao jaldi,STOP_SPEAKING,STOP_SPEAKING_03
+chup ho jao jaldi,STOP_SPEAKING,STOP_SPEAKING_03
+suno chup ho jao now,STOP_SPEAKING,STOP_SPEAKING_03
+zara chup ho jao,STOP_SPEAKING,STOP_SPEAKING_03
+bhai chup ho jao plz,STOP_SPEAKING,STOP_SPEAKING_03
+bhai chup ho jao,STOP_SPEAKING,STOP_SPEAKING_03
+chup ho jao now,STOP_SPEAKING,STOP_SPEAKING_03
+ok chup ho jao abhi,STOP_SPEAKING,STOP_SPEAKING_03
+bhai assistant chup krdo,STOP_SPEAKING,STOP_SPEAKING_06
+suno assistant chup kar do,STOP_SPEAKING,STOP_SPEAKING_06
+hey assistant chup kar de now,STOP_SPEAKING,STOP_SPEAKING_06
+assistant chup kar de abhi,STOP_SPEAKING,STOP_SPEAKING_06
+hey assistant chup krdo yaar,STOP_SPEAKING,STOP_SPEAKING_06
+hey assistant chup kar do abhi,STOP_SPEAKING,STOP_SPEAKING_06
+ok assistant chup kar dijiye thanks,STOP_SPEAKING,STOP_SPEAKING_06
+yaar assistant chup kar dijiye please,STOP_SPEAKING,STOP_SPEAKING_06
+assistant chup kar de,STOP_SPEAKING,STOP_SPEAKING_06
+ok assistant chup kar dijiye,STOP_SPEAKING,STOP_SPEAKING_06
+open the sunroof now,UNKNOWN_INTENT,UNKNOWN_INTENT_03
+open the sunroof,UNKNOWN_INTENT,UNKNOWN_INTENT_03
+zara open the sunroof thanks,UNKNOWN_INTENT,UNKNOWN_INTENT_03
+zara open the sunroof,UNKNOWN_INTENT,UNKNOWN_INTENT_03
+open the sunroof thanks,UNKNOWN_INTENT,UNKNOWN_INTENT_03
+ok open the sunroof,UNKNOWN_INTENT,UNKNOWN_INTENT_03
+ok open the sunroof plz,UNKNOWN_INTENT,UNKNOWN_INTENT_03
+could you please open the sunroof jaldi,UNKNOWN_INTENT,UNKNOWN_INTENT_03
+hey open the sunroof plz,UNKNOWN_INTENT,UNKNOWN_INTENT_03
+hey open the sunroof abhi,UNKNOWN_INTENT,UNKNOWN_INTENT_03
+can you airport ka rasta batao,UNKNOWN_INTENT,UNKNOWN_INTENT_09
+yaar airport ka rasta batao,UNKNOWN_INTENT,UNKNOWN_INTENT_09
+zara airport ka rasta batao,UNKNOWN_INTENT,UNKNOWN_INTENT_09
+please airport ka rasta batao plz,UNKNOWN_INTENT,UNKNOWN_INTENT_09
+zara airport ka rasta batao plz,UNKNOWN_INTENT,UNKNOWN_INTENT_09
+suno airport ka rasta batao plz,UNKNOWN_INTENT,UNKNOWN_INTENT_09
+hey airport ka rasta batao now,UNKNOWN_INTENT,UNKNOWN_INTENT_09
+bhai airport ka rasta batao abhi,UNKNOWN_INTENT,UNKNOWN_INTENT_09
+plz airport ka rasta batao please,UNKNOWN_INTENT,UNKNOWN_INTENT_09
+can you airport ka rasta batao plz,UNKNOWN_INTENT,UNKNOWN_INTENT_09
+mujhe ek joke sunao yaar,UNKNOWN_INTENT,UNKNOWN_INTENT_13
+mujhe ek joke sunao plz,UNKNOWN_INTENT,UNKNOWN_INTENT_13
+mujhe ek joke sunao abhi,UNKNOWN_INTENT,UNKNOWN_INTENT_13
+suno mujhe ek joke sunao yaar,UNKNOWN_INTENT,UNKNOWN_INTENT_13
+ok mujhe ek joke sunao,UNKNOWN_INTENT,UNKNOWN_INTENT_13
+yaar mujhe ek joke sunao jaldi,UNKNOWN_INTENT,UNKNOWN_INTENT_13
+yaar mujhe ek joke sunao,UNKNOWN_INTENT,UNKNOWN_INTENT_13
+please mujhe ek joke sunao jaldi,UNKNOWN_INTENT,UNKNOWN_INTENT_13
+please mujhe ek joke sunao plz,UNKNOWN_INTENT,UNKNOWN_INTENT_13
+hey mujhe ek joke sunao jaldi,UNKNOWN_INTENT,UNKNOWN_INTENT_13
+hey what is the capital of India,UNKNOWN_INTENT,UNKNOWN_INTENT_19
+could you please what is the capital of India plz,UNKNOWN_INTENT,UNKNOWN_INTENT_19
+can you what is the capital of India,UNKNOWN_INTENT,UNKNOWN_INTENT_19
+please what is the capital of India,UNKNOWN_INTENT,UNKNOWN_INTENT_19
+plz what is the capital of India now,UNKNOWN_INTENT,UNKNOWN_INTENT_19
+yaar what is the capital of India,UNKNOWN_INTENT,UNKNOWN_INTENT_19
+yaar what is the capital of India yaar,UNKNOWN_INTENT,UNKNOWN_INTENT_19
+plz what is the capital of India thanks,UNKNOWN_INTENT,UNKNOWN_INTENT_19
+zara what is the capital of India,UNKNOWN_INTENT,UNKNOWN_INTENT_19
+could you please what is the capital of India thanks,UNKNOWN_INTENT,UNKNOWN_INTENT_19

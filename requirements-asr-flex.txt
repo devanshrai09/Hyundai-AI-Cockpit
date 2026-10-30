@@ -1,0 +1,11 @@
+# Install in a dedicated Python 3.10/3.11 environment on Windows.
+# Follow the model repository's requirements/setup instructions for its bundled package.
+# The model is large; CUDA-compatible PyTorch is recommended for your NVIDIA GPU.
+numpy
+sounddevice
+scipy
+pyttsx3
+scikit-learn>=1.3
+pandas
+joblib
+huggingface_hub

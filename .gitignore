@@ -1,0 +1,13 @@
+# AI models
+models/
+
+# Python environment
+.venv/
+venv/
+
+# API secrets
+.env
+
+# Python cache
+__pycache__/
+*.pyc
